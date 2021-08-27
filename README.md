@@ -1,7 +1,7 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Victor Moura</h1>
 
-- 👀 I'm interested in programming and software development
 - 🔭 I’m currently working on [Usiminas](https://www.instagram.com/usiminas.oficial/)
+- 👀 I'm interested in programming and software development
 - 🌱 I’m currently learning information technology infrastructure and mobile development
 - 👨‍💻 I’m currently studying Information System at UFOP - Federal University of Ouro Preto
 - ⚡ Fun fact: I love to play violin
