@@ -6,8 +6,9 @@
 - 👨‍💻 I’m currently studying Information System at UFOP - Federal University of Ouro Preto
 - ⚡ Fun fact: I love to play violin
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omouravictor&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
 <div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omouravictor&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <div>
   <h3>Connect with me :)</h3>
