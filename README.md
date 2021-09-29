@@ -7,6 +7,7 @@
 - ⚡ Fun fact: I love to play violin
 
 <span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omouravictor&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)</span>
+<span><h3>Connect with me :)</h3></span>
 
 <h3>Connect with me :)</h3>
 <a href="mailto:omouravictor@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
