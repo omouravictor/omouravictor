@@ -5,7 +5,7 @@
 - 👨‍💻 I’m currently studying Information System at UFOP - Federal University of Ouro Preto
 - ⚡ Fun fact: I love to play violin
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omouravictor&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omouravictor&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=ffffff&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Connect with me :)</h3>
 <a href="mailto:omouravictor@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
