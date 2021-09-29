@@ -6,14 +6,15 @@
 - 👨‍💻 I’m currently studying Information System at UFOP - Federal University of Ouro Preto
 - ⚡ Fun fact: I love to play violin
 
+<div display="flex">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omouravictor&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-<div align="center">
-  <h3>Connect with me :)</h3>
-  <a href="mailto:omouravictor@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/omouravictor/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <div>
+    <h3>Connect with me :)</h3>
+    <a href="mailto:omouravictor@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/omouravictor/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </div>
 </div>
-
+  
 <!--
 **omouravictor/omouravictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
