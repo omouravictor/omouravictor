@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Victor Moura</h1>
+<h1 align="center">Hi there, I'm Victor Moura</h1>
 
 - 🔭 I’m currently working on [Usiminas](https://www.instagram.com/usiminas.oficial/)
 - 🌱 I’m currently learning java and kotlin development
