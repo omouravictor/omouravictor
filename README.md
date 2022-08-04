@@ -7,7 +7,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omouravictor&layout=compact&title_color=ffffff&text_color=ffffff&bg_color=24292f&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omouravictor&layout=compact&title_color=C9D1D9&text_color=ffffff&bg_color=24292f&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me
 <br>
