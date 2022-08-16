@@ -8,6 +8,7 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omouravictor&layout=compact&title_color=C9D1D9&text_color=ffffff&bg_color=24292f&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=omouravictor&hide=contribs,prs&count_private=true&show_icons=true&layout=compact&title_color=C9D1D9&text_color=ffffff&bg_color=24292f&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me
 <br>
