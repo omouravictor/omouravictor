@@ -1,7 +1,6 @@
 # Hi there, I'm Victor 👋
 
 - I’m a Android Mobile Developer 🚀
-- I’m currently working on [Usiminas](https://www.instagram.com/usiminas.oficial/) 💻
 - I’m currently studying Information System at UFOP - Federal University of Ouro Preto 👨‍💻
 - Fun fact: I love to play violin 🎻
 
