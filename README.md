@@ -1,6 +1,6 @@
 # Hi there, I'm Victor 👋
 
-- I'm focused on java/kotlin development 🚀
+- I'm focused on android development 🚀
 - I’m currently studying Information System at UFOP - Federal University of Ouro Preto 👨‍💻
 - Fun fact: I love to play violin 🎻
 
