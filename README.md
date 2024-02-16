@@ -1,8 +1,5 @@
 # Hi there, I'm Victor 👋
 
-- I'm a software developer focused on entire Java and kotlin universe 🚀
-- Fun fact: I love to play violin 🎻
-
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omouravictor&title_color=C9D1D9&text_color=ffffff&bg_color=24292f&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
