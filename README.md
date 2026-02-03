@@ -12,29 +12,44 @@
     <img align="center" alt="Kotlin" height="50" width="50"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   </a>
-
-  <a href="https://docs.oracle.com/javase/" target="_blank">
+  
+  <a href="https://docs.oracle.com/en/java/" target="_blank">
     <img align="center" alt="Java" height="50" width="50"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   </a>
-
+  
+  <a href="https://docs.spring.io/spring-framework/reference/index.html" target="_blank">
+    <img align="center" alt="Spring" height="50" width="50"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  </a>
+  
+  <a href="https://docs.aws.amazon.com/" target="_blank">
+    <img align="center" alt="Spring" height="50" width="50"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+  </a>
+  
+  <a href="https://git-scm.com/docs/git" target="_blank">
+    <img align="center" alt="Git" height="50" width="50"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  </a>
+  
+  <a href="https://www.jetbrains.com/help/idea/getting-started.html" target="_blank">
+    <img align="center" alt="Spring" height="50" width="50"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
+  </a>
+  
+  <a href="https://learning.postman.com/docs/introduction/overview" target="_blank">
+    <img align="center" alt="Git" height="50" width="50"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
+  </a>
+  
   <a href="https://developer.android.com/docs" target="_blank">
     <img align="center" alt="Android" height="50" width="50"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
   </a>
-
-  <a href="https://spring.io/projects/spring-framework" target="_blank">
-    <img align="center" alt="Spring" height="50" width="50"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  </a>
-
+  
   <a href="https://developer.android.com/studio" target="_blank">
     <img align="center" alt="Android Studio" height="50" width="50"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-  </a>
-
-  <a href="https://git-scm.com/doc" target="_blank">
-    <img align="center" alt="Git" height="50" width="50"
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   </a>
 </div>
