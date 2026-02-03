@@ -13,7 +13,7 @@
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
   </a>
   
-  <a href="https://docs.oracle.com/en/java/" target="_blank">
+  <a href="https://docs.oracle.com/java/" target="_blank">
     <img align="center" alt="Java" height="50" width="50"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   </a>
